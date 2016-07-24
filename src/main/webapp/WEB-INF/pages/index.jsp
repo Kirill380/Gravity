@@ -9,6 +9,6 @@
 </head>
 <body>
 <h2>Gravity</h2>
-<script type="application/javascript" src="<c:url value="/assets/public/GravityApp.js"/>"></script>
+<script type="application/javascript" src="<c:url value="/assets/public/app.js"/>"></script>
 </body>
 </html>
